@@ -5,11 +5,11 @@ DGIST 이상철 박사님 지능형 로봇 공학 연구실에서 실내 위치 
 DGIST Dr. Lee Sang-chul is a repository that explains how hardware (MDEK 1001) is set up for indoor location positioning equipment and how Linux reads its values and sends json to the server.
 
 --------------------------------------------------------------------------------------------------------------
-
+>
 # 하드웨어 설정
 ## 1. MDEK1001 하드웨어 설정
 
-> 이 작업은 어느 운영체제에서 해도 상관이 없습니다. 윈도우 및 리눅스 모두 가능합니다.  
+이 작업은 어느 운영체제에서 해도 상관이 없습니다. 윈도우 및 리눅스 모두 가능합니다.  
 저는 윈도우 기준으로 설명을 하겠습니다.  
 먼저 사용하던 MDEK1001이 아니라면 초기 설정을 해주어야합니다.  
 자신이 사용하는 시리얼 통신 프로그램을 사용하여 MDEK1001과 시리얼 통신 연결을 합니다.  
