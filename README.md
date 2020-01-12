@@ -48,5 +48,5 @@ dwm >> aurs 2 2
 ```  
 명령어로 설정을 하고(왜 하는지는 모르겟는데.. 이렇게 하니까 됬음..)  
 그 후, 태그로 설정하기 위해 다음의 명령어를 입력합니다.  
-![Alt text](/image/tag_setting_last.png) 
+![Alt text](/image/tag_setting_last.png
 이렇게 되면 설정이 끝나게 됩니다. 그후, les를 치면 앵커와 태그 사이의 거리가 나오게 됩니다.  
