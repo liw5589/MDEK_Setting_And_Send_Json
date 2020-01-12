@@ -28,6 +28,7 @@ MDEK1001은 앵커와 태그 사이의 거리를 측정합니다.
 ```
 nmi
 ```  
+![Alt text](/image/tag_anchor_setting.png)  
 위의 명령을 사용하여 MDEK1001을 anchor로 설정합니다. 그리고  
 ```
 twi '숫자 4자리'
