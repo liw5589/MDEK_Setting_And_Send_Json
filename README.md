@@ -16,6 +16,7 @@ DGIST Dr. Lee Sang-chul is a repository that explains how hardware (MDEK 1001) i
 (Ex. 윈도우에서는 putty, 리눅스에서는 minicom 등등)  
 2. MDEK1001의 포트 번호를 확인하고, 전송률은 115200으로 설정하여 MDEK1001과 연결합니다.  
 (윈도우는 장치 관리자로 이동하여 어느 포트로 연결되어 있는지 확인, 리눅스는 cd /dev/ 명령어를 사용해 확인)  
+![Alt text](/image/putty_setting.png)
 
 --------------------------------------------------------------------------------------------------------------
 
