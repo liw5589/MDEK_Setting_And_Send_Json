@@ -11,7 +11,7 @@ DGIST Dr. Lee Sang-chul is a repository that explains how hardware (MDEK 1001) i
 
 이 작업은 어느 운영체제에서 해도 상관이 없습니다. 윈도우 및 리눅스 모두 가능합니다.  
 저는 윈도우 기준으로 설명을 하겠습니다.  
-![Alt text](/image/putty_setting.png)
+![Alt text](/image/putty_setting.png)  
 먼저 사용하던 MDEK1001이 아니라면 초기 설정을 해주어야합니다.  
 1. 자신이 사용하는 시리얼 통신 프로그램을 사용하여 MDEK1001과 시리얼 통신 연결을 합니다.  
 (Ex. 윈도우에서는 putty, 리눅스에서는 minicom 등등)  
@@ -22,7 +22,7 @@ DGIST Dr. Lee Sang-chul is a repository that explains how hardware (MDEK 1001) i
 --------------------------------------------------------------------------------------------------------------
 
 ### 2.1 Anchor 설정하기
-
-
+MDEK1001은 앵커와 태그 사이의 거리를 측정합니다.  
+값은 태그에서만 읽을 수 있고 앵커는 기준점 역할을 합니다.  
 
 ### 2.2 TAG 설정하기
