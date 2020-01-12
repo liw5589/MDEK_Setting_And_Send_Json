@@ -25,9 +25,13 @@ DGIST Dr. Lee Sang-chul is a repository that explains how hardware (MDEK 1001) i
 MDEK1001은 앵커와 태그 사이의 거리를 측정합니다.  
 값은 태그에서만 읽을 수 있고 앵커는 기준점 역할을 합니다.  
 ![Alt text](/image/anchor_setting.png)  
-$ nmi  
-위의 명령을 사용하여 MDEK1001을 anchor로 설정합니다. 그리고
+'''
+$ nmi
+'''  
+위의 명령을 사용하여 MDEK1001을 anchor로 설정합니다. 그리고  
+'''
 $ twi '숫자 4자리'  
-명령어를 사용하여 설정을 합니다. 위의 설정을 하고 $ si 명령어를 입력하여 자신이 설정한 값이 올바르게 되어 있는지 확인합니다.  
+'''  
+명령어를 사용하여 설정을 합니다. 위의 설정을 하고 ''' $ si ''' 명령어를 입력하여 자신이 설정한 값이 올바르게 되어 있는지 확인합니다.  
 
 ### 2.2 TAG 설정하기
