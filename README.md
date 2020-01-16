@@ -31,7 +31,7 @@ dwm >> nmi
 ![Alt text](/image/tag_anchor_setting.png)  
 
 ```
-dwm >> twi '숫자 4자리'
+dwm >> nis '숫자 4자리'
 ```  
 2. 명령어를 사용하여 설정을 합니다. 위의 설정을 하고 ``` si ```명령어를 입력하여 자신이 설정한 값이 올바르게 되어 있는지 확인합니다.  
 
