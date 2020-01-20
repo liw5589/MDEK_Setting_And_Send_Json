@@ -31,7 +31,7 @@ dwm >> nmi
 ![Alt text](/image/tag_anchor_setting.png)  
 
 ```
-dwm >> twi '숫자 4자리'
+dwm >> nis '숫자 4자리'
 ```  
 2. 명령어를 사용하여 설정을 합니다. 위의 설정을 하고 ``` si ```명령어를 입력하여 자신이 설정한 값이 올바르게 되어 있는지 확인합니다.  
 
@@ -39,7 +39,7 @@ dwm >> twi '숫자 4자리'
 ### 2.2 TAG 설정하기
 ![Alt text](/image/tag_anchor_setting.png)  
 ```
-dwm >> twi '숫자 4자리'
+dwm >> nis '숫자 4자리'
 ```  
 1. 명령어로 통신할 포트를 설정해줍니다. 여기서 주의 할 점은 앵커와 같은 숫자로 설정을 하여야 합니다. 그 후,  
 ![Alt text](/image/tag_setting_1.png)  
